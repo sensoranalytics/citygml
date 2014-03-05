@@ -1,5 +1,8 @@
-OGC (r) CityGML schema ReadMe.txt
-=================================
+OGC (r) CityGML schema 
+======================
+This repository hosts the OGC-approved versions of the City Geographic Markup Language (CityGML) schema. 
+We are adding this as a public service as the schemas are not hosted on Github.
+
 
 OGC(r) City Geography Markup Language Encoding Standard
 -------------------------------------------------------------------
